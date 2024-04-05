@@ -1,1 +1,1 @@
-# Building a text to handwritten PDF in Rust
+# Building a text to handwritten PDF in Golang
